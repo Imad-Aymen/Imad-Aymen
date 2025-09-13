@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Problem solving - CSS (Tailwind)**
 
-- 📫 How to reach me **Aymenkara200@Gmail.com**
+- 📫 How to reach me **i.aymen@Outlok.com**
 
 - 📄 Know about my experiences [Under development](Under development)
 
