@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" width="100%" height="280" src="https://cdn.dribbble.com/users/1040798/screenshots/15685874/media/aa9588469e19517c2b94b1addd15d11d.gif">
 <h1 align="center">Hi 👋, I'm Imad Aymen Walid</h1>
-<h3 align="center">Passionate front-end developer from Algeria</h3>
+<h3 align="center">Passionate  developer from Algeria</h3>
 <img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owlaymen&label=Profile%20views&color=0e75b6&style=flat" alt="owlaymen" /> </p>
 
